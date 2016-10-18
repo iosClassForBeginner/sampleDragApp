@@ -36,7 +36,7 @@
 > 1-3. UIImageViewの画像を選択します。
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleDragApp/blob/master/Assets/3.gif" /></div>
 
-> 1-2. StoryboardのUIImageViewを、ViewController.swiftに紐づけます
+> 1-4. StoryboardのUIImageViewを、ViewController.swiftに紐づけます
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/sampleDragApp/blob/master/Assets/4.gif" /></div>
 
 #### 2, ViewController.swiftにコード記述
